@@ -1,2 +1,0 @@
-# sudo
-super user utility
